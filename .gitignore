@@ -1,2 +1,4 @@
 .idea/workspace.xml
-out/
+.idea/libraries/
+*.iml
+target/
