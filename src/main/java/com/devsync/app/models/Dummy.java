@@ -1,4 +1,4 @@
-package main.models;
+package com.devsync.app.models;
 
 /**
  * Dummy class.

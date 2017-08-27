@@ -1,4 +1,4 @@
-package main.views;
+package com.devsync.app.views;
 
 /**
  * Dummy class.
