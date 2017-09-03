@@ -1,4 +1,4 @@
-package com.devsync.Controller;
+package com.devsync.app.controller;
 
 /**
  * Created by hitesh on 27-08-2017.
